@@ -1,8 +1,8 @@
 full_rebuild: true
-name: Gridster
+name: Devis pour fenêtres
 description: the material experience for jekyll
 destination: jekyllbuild
-url: http://franckj.github.io/
+url: http://mes-devis-fenetre.com/
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8
